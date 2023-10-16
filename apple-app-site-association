@@ -1,0 +1,4 @@
+Inizializzazione del progetto Firebase Hosting:
+
+Apri una finestra del terminale e assicurati di essere nella directory principale del tuo sito web.
+Esegui il comando firebase init. Questo comando ti guiderà attraverso il processo di inizializzazione del progetto Firebase Hosting. Sarai in grado di selezionare il tuo progetto Firebase e configurare Firebase Hosting.
